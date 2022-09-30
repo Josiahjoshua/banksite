@@ -139,7 +139,7 @@ a,
 }
 
 img {
-    max-width: 80px;
+    max-width: 500px;
     height: auto;
 }
 
@@ -359,7 +359,7 @@ button {
     position: relative;
 }
 .image_1 {
-    width: 100%;
+    width: 500px;
     float: left;
     position: relative;
     z-index: 1;
