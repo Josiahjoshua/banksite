@@ -359,8 +359,7 @@ button {
     position: relative;
 }
 .image_1 {
-    background-image: url(../images/bg-intro-desktop.svg);
-    width: 80%;
+    width: 100%;
     float: left;
     position: relative;
     z-index: 1;
@@ -379,7 +378,7 @@ button {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #135a5f;
+    color: grey;
     margin: 0px;
 }
 
